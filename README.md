@@ -1,5 +1,5 @@
 # gitest
-test git.
 test git test.                           
 test git.
+<<<<<<< HEAD
 test git.
