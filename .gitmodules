@@ -1,3 +1,0 @@
-[submodule "shellscripts"]
-	path = shellscripts
-	url = git@github.com:wafaking/gitest.git
